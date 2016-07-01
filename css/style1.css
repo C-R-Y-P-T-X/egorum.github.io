@@ -268,7 +268,7 @@ z-index: 999;}
 ------------------------*/
 .button-radius{
   position: relative;
-  border: 3px solid rgba(49, 215, 0, 0.39);;
+  border: 0px solid rgba(49, 215, 0, 0.39);;
   padding: 1px;
   min-height: 34px;
   background: transparent;
