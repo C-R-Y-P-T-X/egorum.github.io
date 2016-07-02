@@ -729,7 +729,7 @@ width: 10px;
     margin-bottom: 50px;
 }
 input[type="text"], input[type="password"], input[type="email"], textarea  {
-    border: 3px solid transparent;
+    border: px solid transparent;
     margin-top: 7px;
     
     
