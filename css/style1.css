@@ -728,14 +728,13 @@ width: 10px;
 .single-sidebar {
     margin-bottom: 50px;
 }
-input[type="text"], input[type="password"], input[type="email"],  {
-    border: 0px solid #1bd172;
+input[type="text"], input[type="password"], input[type="email"], textarea  {
+    border: 3px solid transparent;
     margin-top: 7px;
     
     
 }  
-    textarea { border: 4px solid #1bd172;
-    margin-top: 7px;
+    
     
 
    
