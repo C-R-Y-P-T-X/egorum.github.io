@@ -15,7 +15,7 @@
     .owl-next {
         
         border-radius:50%;
-        border-style:outset;
+        border-style:inset;
         
     }
     
@@ -23,7 +23,7 @@
      .owl-prev {
         
         border-radius:50%;
-        border-style:outset;
+        border-style:inset;
         
     }
     
