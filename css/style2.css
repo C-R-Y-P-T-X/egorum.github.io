@@ -3,9 +3,7 @@
     box-shadow: 0 15px 30px #8BC34A ;
     
     
-    .navbar-default {
-    
-    box-shadow: 0 -15px 30px #8BC34A ;
+   
    
     
     
@@ -13,6 +11,13 @@
     
     
     .owl-next {
+        
+        border-radius:50%;
+        
+    }
+    
+    
+     .owl-prev {
         
         border-radius:50%;
         
