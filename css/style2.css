@@ -15,6 +15,7 @@
     .owl-next {
         
         border-radius:50%;
+        border-style:outset;
         
     }
     
@@ -22,6 +23,7 @@
      .owl-prev {
         
         border-radius:50%;
+        border-style:outset;
         
     }
     
